@@ -1,0 +1,30 @@
+2019-10-10 14:16:48,838 - INFO - logger set up
+2019-10-10 14:16:51,755 - INFO - [load data] done in 1 s
+2019-10-10 14:16:52,458 - INFO - [load featuers] done in 1 s
+2019-10-10 14:16:55,375 - INFO - [preprocessing] done in 2 s
+2019-10-10 14:16:58,699 - INFO - Best Iteration: 721
+2019-10-10 14:16:59,387 - INFO - [fold 0] done in 3 s
+2019-10-10 14:17:01,033 - INFO - Best Iteration: 678
+2019-10-10 14:17:01,766 - INFO - [fold 1] done in 2 s
+2019-10-10 14:17:03,931 - INFO - Best Iteration: 686
+2019-10-10 14:17:04,702 - INFO - [fold 2] done in 3 s
+2019-10-10 14:17:06,743 - INFO - Best Iteration: 656
+2019-10-10 14:17:07,479 - INFO - [fold 3] done in 3 s
+2019-10-10 14:17:09,445 - INFO - Best Iteration: 688
+2019-10-10 14:17:10,231 - INFO - [fold 4] done in 3 s
+2019-10-10 14:17:10,394 - INFO - CV=470070100.9620354
+2019-10-10 14:17:10,395 - INFO - [train] done in 14 s
+2019-10-10 14:17:10,425 - INFO - len sub=31262
+2019-10-10 14:17:10,542 - INFO - [sub] done in 0 s
+2019-10-10 14:29:17,105 - INFO - Best Iteration: 721
+2019-10-10 14:29:17,773 - INFO - [fold 0] done in 2 s
+2019-10-10 14:29:19,468 - INFO - Best Iteration: 678
+2019-10-10 14:29:20,166 - INFO - [fold 1] done in 2 s
+2019-10-10 14:29:22,189 - INFO - Best Iteration: 686
+2019-10-10 14:29:23,033 - INFO - [fold 2] done in 3 s
+2019-10-10 14:29:24,934 - INFO - Best Iteration: 656
+2019-10-10 14:29:25,661 - INFO - [fold 3] done in 3 s
+2019-10-10 14:29:27,593 - INFO - Best Iteration: 688
+2019-10-10 14:29:28,363 - INFO - [fold 4] done in 3 s
+2019-10-10 14:29:28,522 - INFO - CV=470070100.9620354
+2019-10-10 14:29:28,523 - INFO - [train] done in 13 s
